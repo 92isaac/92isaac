@@ -6,6 +6,10 @@
 <br>
 [![wakatime](https://wakatime.com/badge/user/5328c69d-4b29-4fa3-b39b-286fc689c7bb.svg)](https://wakatime.com/@5328c69d-4b29-4fa3-b39b-286fc689c7bb)
 
+<h4 align="left">Connect with me:</h4>
+<p align="left">
+<a href="https://linkedin.com/in/isaac-sangodare-744765148/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lemuella okon" height="25" width="25" /></a>
+</p>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
