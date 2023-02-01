@@ -3,7 +3,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=92isaac&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=92isaac&layout=compact)](https://github.com/92isaac/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=92isaac)](https://github.com/92isaac/github-readme-stats)
 <br>
 [![wakatime](https://wakatime.com/badge/user/5328c69d-4b29-4fa3-b39b-286fc689c7bb.svg)](https://wakatime.com/@5328c69d-4b29-4fa3-b39b-286fc689c7bb)
 
