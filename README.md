@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=92isaac&layout=compact)](https://github.com/92isaac/github-readme-stats)
 <br>
 [![wakatime](https://wakatime.com/badge/user/5328c69d-4b29-4fa3-b39b-286fc689c7bb.svg)](https://wakatime.com/@5328c69d-4b29-4fa3-b39b-286fc689c7bb)
-
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=92isaac&combine_all_yearly_contributions=true)
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/isaac-sangodare-744765148/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="92isaac" height="25" width="25" /></a>
